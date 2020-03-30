@@ -16,7 +16,7 @@
 
 #### :mag_right: [Click here](https://corona-cases-india.netlify.com/) to visualize the state-wise Corona Cases in India! Keep yourself updated with latest news related to COVID-19.
 
-[![GitHub last commit (branch)](https://img.shields.io/github/last-commit/vinitshahdeo/Corona-India/master?logo=github)](https://github.com/vinitshahdeo) [![Open Source Love](https://badges.frapsoft.com/os/v2/open-source.svg?v=103)](https://github.com/vinitshahdeo)
+[![Open Source Love](https://badges.frapsoft.com/os/v2/open-source.svg?v=103)](https://github.com/vinitshahdeo)
 
 I’m sure you’ll agree that, at this point, it isn’t an exaggeration
 to say that we are at war against the coronavirus and that it is a
@@ -66,7 +66,7 @@ while(_.isAlive(new Virus('COVID-19'))) {
 ## < /> with ♡ by 
 
 
-|                                                                                         <a href="https://fayz.in/stories/s/1522/0/?ckt_id=ZGL1ZGVk&title=story_of_vinit_shahdeo"><img src="assets/vinit-shahdeo.jpg" width=150px height=150px /></a>                                                                                         |
+|                                                                                         <a href="https://fayz.in/stories/s/1522/0/?ckt_id=ZGL1ZGVk&title=story_of_vinit_shahdeo"><img src="https://github.com/vinitshahdeo/Corona-India/raw/master/assets/vinit-shahdeo.jpg" width=150px height=150px /></a>                                                                                         |
 | :------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------: |
 |                                                                                                                                        **[Vinit Shahdeo](https://www.linkedin.com/in/vinitshahdeo/)**                                                                                                                                        |
 | <a href="https://twitter.com/Vinit_Shahdeo"><img src="https://raw.githubusercontent.com/vinitshahdeo/Water-Monitoring-System/master/assets/twitter.png" width="32px" height="32px"></a> <a href="https://www.facebook.com/vinit.shahdeo"><img src="https://raw.githubusercontent.com/vinitshahdeo/Water-Monitoring-System/master/assets/facebook.png" width="32px" height="32px"></a> <a href="https://www.linkedin.com/in/vinitshahdeo/"><img src="https://raw.githubusercontent.com/vinitshahdeo/Water-Monitoring-System/master/assets/linkedin.png" width="32px" height="32px"></a> |
@@ -87,4 +87,4 @@ if (_.isAwesome(thisRepo)) {
 
 <sup>**DISCLAIMER**: [This](http://corona-cases-india.netlify.com/) is an effort made to keep people updated with the latest news/reports related to `COVID-19`. Check the source for data [here](https://github.com/covid19india/api). It's a humble request to everyone to stay at home. </sup></p>
 
-[![GitHub search hit counter](https://img.shields.io/github/search/vinitshahdeo/Corona-India/coronavirus?logo=github)](https://github.com/vinitshahdeo) [![GitHub search hit counter](https://img.shields.io/github/search/vinitshahdeo/Corona-India/covid-19?color=tomato&logo=github)](https://github.com/vinitshahdeo) [![GitHub search hit counter](https://img.shields.io/github/search/vinitshahdeo/Corona-India/corona?color=teal&logo=github)](https://github.com/vinitshahdeo) [![Maintenance](https://img.shields.io/maintenance/yes/2020?color=dodgerblue&logo=github)](https://github.com/vinitshahdeo)
+[![Maintenance](https://img.shields.io/maintenance/yes/2020?color=dodgerblue&logo=github)](https://github.com/vinitshahdeo)
