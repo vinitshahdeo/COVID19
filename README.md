@@ -26,7 +26,7 @@ family.
 
 > [This](https://corona-cases-india.netlify.com/) is a small effort from my side to keep yourself updated with number of corona cases reported in India so far. Checkout the available APIs [here](https://covid-19-apis.postman.com/). Thankful to [this](https://github.com/covid19india) organization for such a wonderful API. [Click here](./DISCLAIMER.md) to view the disclaimer.
 
-[![GitHub license](https://img.shields.io/github/license/vinitshahdeo/Corona-India?logo=github)](https://github.com/vinitshahdeo/Corona-India/blob/master/LICENSE) ![GitHub code size in bytes](https://img.shields.io/github/languages/code-size/vinitshahdeo/Corona-India?logo=react)
+[![GitHub license](https://img.shields.io/github/license/vinitshahdeo/Corona-India?logo=github)](https://github.com/vinitshahdeo/Corona-India/blob/master/LICENSE)
 
 > #### :point_right: See [live demo](https://corona-cases-india.netlify.com/)
 
