@@ -1,4 +1,6 @@
-# COVID-19 | [Let's fight together with Corona](https://corona-cases-india.netlify.com/)!
+# COVID-19 | [Let's fight together with Corona](https://corona-cases-india.netlify.com/)! :mask:
+
+## Do checkout latest [COVID-19 Tracker | INDIA](https://indiafightscorona.netlify.com/) :india:
 
 ```javascript
 
