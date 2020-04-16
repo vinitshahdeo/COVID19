@@ -18,7 +18,7 @@
 
 ### Stay Home<sup>Stay Safe</sup> [![Netlify Status](https://api.netlify.com/api/v1/badges/fcfb9be7-e730-460c-8bcf-e35179e7bdcb/deploy-status)](https://app.netlify.com/sites/indiafightscorona/deploys)
 
-#### :mag_right: [Click here](https://corona-cases-india.netlify.com/) to visualize the state-wise Corona Cases in India! Keep yourself updated with latest news related to COVID-19.
+#### :mag_right: [Click here](https://corona-cases-india.netlify.com/) to visualize the state-wise :bar_chart: Corona Cases in India! Keep yourself updated with latest news related to COVID-19.
 
 [![Open Source Love](https://badges.frapsoft.com/os/v2/open-source.svg?v=103)](https://github.com/vinitshahdeo)
 
@@ -35,6 +35,8 @@ family.
 [![GitHub license](https://img.shields.io/github/license/vinitshahdeo/COVID19?logo=github)](https://github.com/vinitshahdeo/COVID19/blob/master/LICENSE)
 
 > #### :point_right: See [live demo](https://corona-cases-india.netlify.com/) :link: 
+
+<a href="https://indiafightscorona.netlify.app/"><img src="./assets/mask-corona.png" height="100px" width="100px" alt="COVID-19 Tracker by Vinit Shahdeo"></a>
 
 ### Stay Home, Stay Safe
 
@@ -93,6 +95,6 @@ if (_.isAwesome(thisRepo)) {
 
 [![COVID-19 Tracker | INDIA](./assets/banner-corona.png)](https://indiafightscorona.netlify.app/)
 
-<sup>**DISCLAIMER**: [This](http://corona-cases-india.netlify.com/) is an effort made to keep people updated with the latest news/reports related to `COVID-19`. Check the source for data [here](https://github.com/covid19india/api). It's a humble request to everyone to stay at home. Read the full disclaimer [here](./DISCLAIMER.md)</sup></p>
+<sup>**DISCLAIMER**: [This](http://corona-cases-india.netlify.com/) is an effort made to keep people updated with the latest news/reports related to `COVID-19`. Check the source for data [here](https://github.com/covid19india/api). It's a humble request to everyone to stay at home. Read the full disclaimer [here](./DISCLAIMER.md)</sup></p>.
 
 [![GitHub search hit counter](https://img.shields.io/github/search/vinitshahdeo/COVID19/coronavirus?logo=github&color=orange)](https://github.com/vinitshahdeo) [![GitHub search hit counter](https://img.shields.io/github/search/vinitshahdeo/COVID19/covid-19?color=tomato&logo=github)](https://github.com/vinitshahdeo) [![GitHub search hit counter](https://img.shields.io/github/search/vinitshahdeo/COVID19/corona?color=teal&logo=github)](https://github.com/vinitshahdeo) [![Maintenance](https://img.shields.io/maintenance/yes/2020?color=dodgerblue&logo=github)](https://github.com/vinitshahdeo)
