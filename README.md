@@ -4,6 +4,8 @@
 
 # :man: :blonde_woman: :house: :mask: :pray:
 
+[![GitHub stars - COVID-19 Vinit Shahdeo](https://img.shields.io/github/stars/vinitshahdeo/COVID19?label=LEAVE%20A%20Star%20on%20GitHub&logo=github&style=for-the-badge)](https://github.com/vinitshahdeo/COVID19/)
+
 ```javascript
 
 
