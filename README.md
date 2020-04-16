@@ -1,6 +1,6 @@
 # COVID-19 | [Let's fight together with Corona](https://corona-cases-india.netlify.com/)! :mask:
 
-## Do checkout latest [COVID-19 Tracker | INDIA](https://indiafightscorona.netlify.com/) :india:
+## Do checkout latest [COVID-19 Tracker :bar_chart: | INDIA](https://indiafightscorona.netlify.com/) :india:
 
 ```javascript
 
@@ -14,7 +14,7 @@
 
 ```
 
-### Stay Home<sup>Stay Safe</sup> [![Netlify Status](https://api.netlify.com/api/v1/badges/0497585e-79a2-4557-aa08-cc2200c3af32/deploy-status)](https://app.netlify.com/sites/corona-cases-india/deploys)
+### Stay Home<sup>Stay Safe</sup> [![Netlify Status](https://api.netlify.com/api/v1/badges/fcfb9be7-e730-460c-8bcf-e35179e7bdcb/deploy-status)](https://app.netlify.com/sites/indiafightscorona/deploys)
 
 #### :mag_right: [Click here](https://corona-cases-india.netlify.com/) to visualize the state-wise Corona Cases in India! Keep yourself updated with latest news related to COVID-19.
 
@@ -32,7 +32,7 @@ family.
 
 [![GitHub license](https://img.shields.io/github/license/vinitshahdeo/COVID19?logo=github)](https://github.com/vinitshahdeo/COVID19/blob/master/LICENSE)
 
-> #### :point_right: See [live demo](https://corona-cases-india.netlify.com/)
+> #### :point_right: See [live demo](https://corona-cases-india.netlify.com/) :link: 
 
 ### Stay Home, Stay Safe
 
