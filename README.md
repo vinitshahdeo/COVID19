@@ -91,7 +91,7 @@ if (_.isAwesome(thisRepo)) {
 ```
 ----
 
-[![COVID-19 Tracker | INDIA](./banner-corona.png)](https://indiafightscorona.netlify.app/)
+[![COVID-19 Tracker | INDIA](./assets/banner-corona.png)](https://indiafightscorona.netlify.app/)
 
 <sup>**DISCLAIMER**: [This](http://corona-cases-india.netlify.com/) is an effort made to keep people updated with the latest news/reports related to `COVID-19`. Check the source for data [here](https://github.com/covid19india/api). It's a humble request to everyone to stay at home. </sup></p>
 
