@@ -97,6 +97,6 @@ if (_.isAwesome(thisRepo)) {
 
 [![GitHub stars - COVID-19 Vinit Shahdeo](https://img.shields.io/github/stars/vinitshahdeo/COVID19?label=LEAVE%20A%20Star%20on%20GitHub&logo=github&style=for-the-badge)](https://github.com/vinitshahdeo/COVID19/)
 
-<sup>**DISCLAIMER**: [This](http://corona-cases-india.netlify.com/) is an effort made to keep people updated with the latest news/reports related to `COVID-19`. Check the source for data [here](https://github.com/covid19india/api). It's a humble request to everyone to stay at home. Read the full disclaimer [here](./DISCLAIMER.md)</sup></p>.
+<sup>**DISCLAIMER**: [This](http://corona-cases-india.netlify.com/) is an effort made to keep people updated with the latest news/reports related to `COVID-19`. Check the source for data [here](https://github.com/covid19india/api). It's a humble request to everyone to stay at home. Read the full disclaimer [here](./DISCLAIMER.md).</sup>
 
 [![GitHub search hit counter](https://img.shields.io/github/search/vinitshahdeo/COVID19/coronavirus?logo=github&color=orange)](https://github.com/vinitshahdeo) [![GitHub search hit counter](https://img.shields.io/github/search/vinitshahdeo/COVID19/covid-19?color=tomato&logo=github)](https://github.com/vinitshahdeo) [![GitHub search hit counter](https://img.shields.io/github/search/vinitshahdeo/COVID19/corona?color=teal&logo=github)](https://github.com/vinitshahdeo) [![Maintenance](https://img.shields.io/maintenance/yes/2020?color=dodgerblue&logo=github)](https://github.com/vinitshahdeo)
