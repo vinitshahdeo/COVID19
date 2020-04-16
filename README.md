@@ -16,8 +16,6 @@
 
 # :man: :blonde_woman: :house: :mask: :pray:
 
-[![GitHub stars - COVID-19 Vinit Shahdeo](https://img.shields.io/github/stars/vinitshahdeo/COVID19?label=LEAVE%20A%20Star%20on%20GitHub&logo=github&style=for-the-badge)](https://github.com/vinitshahdeo/COVID19/)
-
 ### Stay Home<sup>Stay Safe</sup> [![Netlify Status](https://api.netlify.com/api/v1/badges/fcfb9be7-e730-460c-8bcf-e35179e7bdcb/deploy-status)](https://app.netlify.com/sites/indiafightscorona/deploys)
 
 #### :mag_right: [Click here](https://corona-cases-india.netlify.com/) to visualize the state-wise :bar_chart: Corona Cases in India! Keep yourself updated with latest news related to COVID-19.
@@ -96,6 +94,8 @@ if (_.isAwesome(thisRepo)) {
 ----
 
 [![COVID-19 Tracker | INDIA](./assets/banner-corona.png)](https://indiafightscorona.netlify.app/)
+
+[![GitHub stars - COVID-19 Vinit Shahdeo](https://img.shields.io/github/stars/vinitshahdeo/COVID19?label=LEAVE%20A%20Star%20on%20GitHub&logo=github&style=for-the-badge)](https://github.com/vinitshahdeo/COVID19/)
 
 <sup>**DISCLAIMER**: [This](http://corona-cases-india.netlify.com/) is an effort made to keep people updated with the latest news/reports related to `COVID-19`. Check the source for data [here](https://github.com/covid19india/api). It's a humble request to everyone to stay at home. Read the full disclaimer [here](./DISCLAIMER.md)</sup></p>.
 
