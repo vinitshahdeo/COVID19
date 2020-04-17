@@ -42,11 +42,11 @@ family.
 
 :wave: [DO THE FIVE](https://www.mohfw.gov.in/): Help stop coronavirus
 
-1. **HANDS**: Wash them often
-2. **ELBOW**: Cough into it
-3. **FACE**: Don't touch it
-4. **SPACE**: Keep safe distance
-5. **HOME**: Stay if you can
+1. **HANDS**: Wash them often :open_hands:
+2. **ELBOW**: Cough into it :sneezing_face: 
+3. **FACE**: Don't touch it :boy:
+4. **SPACE**: Keep safe distance :walking:
+5. **HOME**: Stay if you can :house:
 
 
 #### Avoid Handshakes 🤝 ❌
