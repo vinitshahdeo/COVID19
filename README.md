@@ -83,6 +83,8 @@ while(_.isAlive(new Virus('COVID-19'))) {
 
 [![Twitter Follow](https://img.shields.io/twitter/follow/Vinit_Shahdeo?style=social)](https://twitter.com/Vinit_Shahdeo)
 
+> :point_right: Read my **open letter** [here](https://github.com/vinitshahdeo/Water-Monitoring-System/issues/236). :heart:<br> :fountain_pen: :spiral_notepad: :envelope_with_arrow:
+
 ----
 ```javascript
 
