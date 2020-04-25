@@ -36,6 +36,10 @@ family.
 
 > #### :point_right: See [live demo](https://corona-cases-india.netlify.com/) :link: | Check [COVID-19 Tracker](https://indiafightscorona.netlify.app/) :bar_chart: | INDIA :india:
 
+> ### Featured on Newspaper
+
+[![NEWSPAPER](./assets/news.png)](https://github.com/vinitshahdeo/COVID19/)
+
 <a href="https://indiafightscorona.netlify.app/"><img src="./assets/mask-corona.png" height="100px" width="100px" alt="COVID-19 Tracker by Vinit Shahdeo"></a>
 
 ### Stay Home, Stay Safe
