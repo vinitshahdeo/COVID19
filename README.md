@@ -14,11 +14,11 @@
 
 # :man: :blonde_woman: :house: :mask: :pray:
 
-### Stay Home Stay Safe [![Netlify Status](https://api.netlify.com/api/v1/badges/fcfb9be7-e730-460c-8bcf-e35179e7bdcb/deploy-status)](https://app.netlify.com/sites/indiafightscorona/deploys)
+## Stay Home Stay Safe
 
-#### :mag_right: [Click here](https://corona-cases-india.netlify.com/) to visualize the state-wise :bar_chart: Corona Cases in India! Keep yourself updated with latest news related to COVID-19. 🦠 
+## :mag_right: [Click here](https://corona-cases-india.netlify.com/) to visualize the state-wise :bar_chart: Corona Cases in India! Keep yourself updated with latest news related to COVID-19. 🦠 
 
-[![Mentioned in Awesome](https://awesome.re/mentioned-badge.svg)](https://github.com/NovelCOVID/awesome-novelcovid) [![Open Source Love](https://badges.frapsoft.com/os/v2/open-source.svg?v=103)](https://github.com/vinitshahdeo)
+[![Mentioned in Awesome](https://awesome.re/mentioned-badge.svg)](https://github.com/NovelCOVID/awesome-novelcovid) [![Open Source Love](https://badges.frapsoft.com/os/v2/open-source.svg?v=103)](https://github.com/vinitshahdeo)  [![Netlify Status](https://api.netlify.com/api/v1/badges/fcfb9be7-e730-460c-8bcf-e35179e7bdcb/deploy-status)](https://app.netlify.com/sites/indiafightscorona/deploys)
 
 I’m sure you’ll agree that, at this point, it isn’t an exaggeration
 to say that we are at war against the coronavirus and that it is a
@@ -75,13 +75,11 @@ while(_.isAlive(new Virus('COVID-19'))) {
 
 ## < /> with ♡ by 
 
+[![](https://sourcerer.io/fame/vinitshahdeo/vinitshahdeo/COVID19/images/0)](https://fayz.in/stories/s/1522/0/?ckt_id=ZGL1ZGVk&title=story_of_vinit_shahdeo)[![](https://sourcerer.io/fame/vinitshahdeo/vinitshahdeo/COVID19/images/1)](https://indiafightscorona.netlify.app/)[![](https://sourcerer.io/fame/vinitshahdeo/vinitshahdeo/COVID19/images/2)](https://github.com/vinitshahdeo/COVID19)[![](https://sourcerer.io/fame/vinitshahdeo/vinitshahdeo/COVID19/images/3)](https://www.linkedin.com/in/vinitshahdeo/)[![](https://sourcerer.io/fame/vinitshahdeo/vinitshahdeo/COVID19/images/4)](http://corona-cases-india.netlify.com/)[![](https://sourcerer.io/fame/vinitshahdeo/vinitshahdeo/COVID19/images/5)](http://corona-cases-india.netlify.com/)[![](https://sourcerer.io/fame/vinitshahdeo/vinitshahdeo/COVID19/images/6)](https://github.com/vinitshahdeo)[![](https://sourcerer.io/fame/vinitshahdeo/vinitshahdeo/COVID19/images/7)](https://fayz.in/stories/s/1522/0/?ckt_id=ZGL1ZGVk&title=story_of_vinit_shahdeo)
 
-|                                                                                         <a href="https://fayz.in/stories/s/1522/0/?ckt_id=ZGL1ZGVk&title=story_of_vinit_shahdeo"><img src="https://raw.githubusercontent.com/vinitshahdeo/Water-Monitoring-System/master/assets/vinit-shahdeo.jpg" width="150px" height="150px" /></a>                                                                                         |
-| :------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------: |
-|                                                                                                                                        **[Vinit Shahdeo](https://fayz.in/stories/s/1522/0/?ckt_id=ZGL1ZGVk&title=story_of_vinit_shahdeo)**                                                                                                                                        |
-| <a href="https://twitter.com/Vinit_Shahdeo"><img src="https://raw.githubusercontent.com/vinitshahdeo/Water-Monitoring-System/master/assets/twitter.png" width="32px" height="32px"></a> <a href="https://www.facebook.com/vinit.shahdeo"><img src="https://raw.githubusercontent.com/vinitshahdeo/Water-Monitoring-System/master/assets/facebook.png" width="32px" height="32px"></a> <a href="https://www.linkedin.com/in/vinitshahdeo/"><img src="https://raw.githubusercontent.com/vinitshahdeo/Water-Monitoring-System/master/assets/linkedin.png" width="32px" height="32px"></a> |
+#### [Vinit Shahdeo](https://fayz.in/stories/s/1522/0/?ckt_id=ZGL1ZGVk&title=story_of_vinit_shahdeo)
 
-> :point_right: Read my **open letter** [here](https://github.com/vinitshahdeo/Water-Monitoring-System/issues/236). :heart:<br> :fountain_pen: :spiral_notepad: :envelope_with_arrow:
+### :point_right: Read my **open letter** [here](https://github.com/vinitshahdeo/Water-Monitoring-System/issues/236). :heart:<br>
 
 ----
 ```javascript
