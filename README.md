@@ -38,7 +38,7 @@ family.
 
 [![NEWSPAPER](./img/news.png)](https://github.com/vinitshahdeo/COVID19/)
 
-## Stay Home, Stay Safe
+## Stay Home, Stay Safe!
 
 :wave: [DO THE FIVE](https://www.mohfw.gov.in/): Help stop coronavirus
 
