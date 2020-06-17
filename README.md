@@ -28,19 +28,19 @@ family.
 
 <a href="https://www.producthunt.com/posts/covid-19-tracker-india?utm_source=badge-featured&utm_medium=badge&utm_souce=badge-covid-19-tracker-india" target="_blank"><img src="https://api.producthunt.com/widgets/embed-image/v1/featured.svg?post_id=191600&theme=light" alt="COVID-19 Tracker | India - Get real-time state wise stats of COVID-19 in India | Product Hunt Embed" style="width: 250px; height: 54px;" width="250px" height="54px" /></a>
 
-> [This](https://corona-cases-india.netlify.com/) is a small effort from my side to keep yourself updated with number of corona cases reported in India so far. Checkout the available APIs [here](https://covid-19-apis.postman.com/). Thankful to [this](https://github.com/covid19india) organization for such a wonderful API. The Open Graph image used is taken from [here](https://dribbble.com/shots/10789714-Stay-at-home-Stay-safe).
+[This](https://corona-cases-india.netlify.com/) is a small effort from my side to keep yourself updated with number of corona cases reported in India so far. Checkout the available APIs [here](https://covid-19-apis.postman.com/). Thankful to [this](https://github.com/covid19india) organization for such a wonderful API. The Open Graph image used is taken from [here](https://dribbble.com/shots/10789714-Stay-at-home-Stay-safe). Check the latest UI [here](https://indiafightscorona.netlify.app/).
 
 [![GitHub license](https://img.shields.io/github/license/vinitshahdeo/COVID19?logo=github)](https://github.com/vinitshahdeo/COVID19/blob/master/LICENSE)
 
-> #### :point_right: See [live demo](https://corona-cases-india.netlify.com/) :link: | Check [COVID-19 Tracker](https://indiafightscorona.netlify.app/) :bar_chart: | INDIA :india:
+#### :point_right: See [live demo](https://corona-cases-india.netlify.com/) :link: | Check [COVID-19 Tracker](https://indiafightscorona.netlify.app/) :bar_chart: | INDIA :india:
 
-> ### Featured on Newspaper
+## Featured on Newspaper
 
 [![NEWSPAPER](./img/news.png)](https://github.com/vinitshahdeo/COVID19/)
 
 <a href="https://indiafightscorona.netlify.app/"><img src="./img/mask-corona.png" height="100px" width="100px" alt="COVID-19 Tracker by Vinit Shahdeo"></a>
 
-### Stay Home, Stay Safe
+## Stay Home, Stay Safe
 
 :wave: [DO THE FIVE](https://www.mohfw.gov.in/): Help stop coronavirus
 
@@ -97,6 +97,4 @@ if (_.isAwesome(thisRepo)) {
 
 <sup>**DISCLAIMER**: [This](http://corona-cases-india.netlify.com/) is an effort made to keep people updated with the latest news/reports related to `COVID-19`. Check the source for data [here](https://github.com/covid19india/api). It's a humble request to everyone to stay at home. Read the full disclaimer [here](./DISCLAIMER.md).</sup>
 
-[![GitHub followers](https://img.shields.io/github/followers/vinitshahdeo.svg?label=Follow%20@vinitshahdeo&style=social)](https://github.com/vinitshahdeo/) 
-
-[![Twitter Follow](https://img.shields.io/twitter/follow/Vinit_Shahdeo?style=social)](https://twitter.com/Vinit_Shahdeo)
+[![GitHub followers](https://img.shields.io/github/followers/vinitshahdeo.svg?label=Follow%20@vinitshahdeo&style=social)](https://github.com/vinitshahdeo/) [![Twitter Follow](https://img.shields.io/twitter/follow/Vinit_Shahdeo?style=social)](https://twitter.com/Vinit_Shahdeo)
