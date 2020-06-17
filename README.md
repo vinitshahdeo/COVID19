@@ -1,7 +1,7 @@
-# COVID-19 [Let's fight together with Corona](https://corona-cases-india.netlify.com/)! :mask:
+# [COVID-19](https://github.com/vinitshahdeo/COVID19/) | [Let's fight together with Corona](https://corona-cases-india.netlify.com/)!
 
 
-## Do checkout latest [COVID-19 Tracker :bar_chart: | INDIA](https://indiafightscorona.netlify.com/) :india:
+## Do checkout latest [COVID-19 Tracker | INDIA](https://indiafightscorona.netlify.com/)
 
 ```bash
 ╔═╗╔╦╗╔═╗╦ ╦  ╦ ╦╔═╗╔╦╗╔═╗
