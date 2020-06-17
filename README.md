@@ -14,9 +14,9 @@
 
 # :man: :blonde_woman: :house: :mask: :pray:
 
-## Stay Home Stay Safe
+## [Stay Home](https://github.com/vinitshahdeo/COVID19/), [Stay Safe](indiafightscorona.netlify.app)!
 
-## :mag_right: [Click here](https://corona-cases-india.netlify.com/) to visualize the state-wise :bar_chart: Corona Cases in India! Keep yourself updated with [latest news](https://indiafightscorona.netlify.app/) related to [COVID-19](https://github.com/vinitshahdeo/COVID19/). 🦠 
+## [Click here](https://corona-cases-india.netlify.com/) to visualize the state-wise Corona Cases in India! Keep yourself updated with [latest news](https://indiafightscorona.netlify.app/) related to [COVID-19](https://github.com/vinitshahdeo/COVID19/). 🦠 :mask:
 
 [![Mentioned in Awesome](https://awesome.re/mentioned-badge.svg)](https://github.com/NovelCOVID/awesome-novelcovid) [![Open Source Love](https://badges.frapsoft.com/os/v2/open-source.svg?v=103)](https://github.com/vinitshahdeo)  [![Netlify Status](https://api.netlify.com/api/v1/badges/fcfb9be7-e730-460c-8bcf-e35179e7bdcb/deploy-status)](https://app.netlify.com/sites/indiafightscorona/deploys)
 
@@ -32,13 +32,13 @@ family.
 
 [![GitHub license](https://img.shields.io/github/license/vinitshahdeo/COVID19?logo=github)](https://github.com/vinitshahdeo/COVID19/blob/master/LICENSE)
 
-### :point_right: See [live demo](https://corona-cases-india.netlify.com/) :link: | Check [COVID-19 Tracker](https://indiafightscorona.netlify.app/) :bar_chart: | INDIA :india:
+## See [live demo](https://corona-cases-india.netlify.com/) | Check [COVID-19 Tracker](https://indiafightscorona.netlify.app/) | INDIA 
 
 ## Featured on Newspaper
 
 [![NEWSPAPER](./img/news.png)](https://github.com/vinitshahdeo/COVID19/)
 
-## Stay Home, Stay Safe!
+## [Stay Home](https://github.com/vinitshahdeo/COVID19/), [Stay Safe](indiafightscorona.netlify.app)!
 
 :wave: [DO THE FIVE](https://www.mohfw.gov.in/): Help stop coronavirus
 
@@ -73,7 +73,7 @@ while(_.isAlive(new Virus('COVID-19'))) {
 
 ### [Vinit Shahdeo](https://fayz.in/stories/s/1522/0/?ckt_id=ZGL1ZGVk&title=story_of_vinit_shahdeo)
 
-### :point_right: Read my **open letter** [here](https://github.com/vinitshahdeo/Water-Monitoring-System/issues/236). :heart:<br>
+### Read my **open letter** [here](https://github.com/vinitshahdeo/Water-Monitoring-System/issues/236). <br>
 
 ----
 ```javascript
