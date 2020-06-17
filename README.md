@@ -3,7 +3,7 @@
 
 > ## Do checkout latest [COVID-19 Tracker :bar_chart: | INDIA](https://indiafightscorona.netlify.com/) :india:
 
-```javascript
+```bash
 
 
 ╔═╗╔╦╗╔═╗╦ ╦  ╦ ╦╔═╗╔╦╗╔═╗
