@@ -1,4 +1,4 @@
-# COVID-19 <img src="./corona.gif" height="50px" width="50px" />  [Let's fight together with Corona](https://corona-cases-india.netlify.com/)!  🦠  :mask:
+# COVID-19 <img src="./img/corona.gif" height="50px" width="50px" />  [Let's fight together with Corona](https://corona-cases-india.netlify.com/)!  🦠  :mask:
 
 
 > ## Do checkout latest [COVID-19 Tracker :bar_chart: | INDIA](https://indiafightscorona.netlify.com/) :india:
@@ -36,9 +36,9 @@ family.
 
 > ### Featured on Newspaper
 
-[![NEWSPAPER](./assets/news.png)](https://github.com/vinitshahdeo/COVID19/)
+[![NEWSPAPER](./img/news.png)](https://github.com/vinitshahdeo/COVID19/)
 
-<a href="https://indiafightscorona.netlify.app/"><img src="./assets/mask-corona.png" height="100px" width="100px" alt="COVID-19 Tracker by Vinit Shahdeo"></a>
+<a href="https://indiafightscorona.netlify.app/"><img src="./img/mask-corona.png" height="100px" width="100px" alt="COVID-19 Tracker by Vinit Shahdeo"></a>
 
 ### Stay Home, Stay Safe
 
@@ -97,7 +97,7 @@ if (_.isAwesome(thisRepo)) {
 ```
 ----
 
-[![COVID-19 Tracker INDIA](./assets/banner-corona.png)](https://indiafightscorona.netlify.app/)
+[![COVID-19 Tracker INDIA](./img/banner-corona.png)](https://indiafightscorona.netlify.app/)
 
 [![GitHub stars - COVID-19 Vinit Shahdeo](https://img.shields.io/github/stars/vinitshahdeo/COVID19?label=LEAVE%20A%20Star%20on%20GitHub&logo=github&style=for-the-badge)](https://github.com/vinitshahdeo/COVID19/)
 
