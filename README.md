@@ -4,15 +4,12 @@
 > ## Do checkout latest [COVID-19 Tracker :bar_chart: | INDIA](https://indiafightscorona.netlify.com/) :india:
 
 ```bash
-
-
 ╔═╗╔╦╗╔═╗╦ ╦  ╦ ╦╔═╗╔╦╗╔═╗
 ╚═╗ ║ ╠═╣╚╦╝  ╠═╣║ ║║║║║╣ 
 ╚═╝ ╩ ╩ ╩ ╩   ╩ ╩╚═╝╩ ╩╚═╝
 ╔═╗╔╦╗╔═╗╦ ╦  ╔═╗╔═╗╔═╗╔═╗
 ╚═╗ ║ ╠═╣╚╦╝  ╚═╗╠═╣╠╣ ║╣ 
 ╚═╝ ╩ ╩ ╩ ╩   ╚═╝╩ ╩╚  ╚═╝
-
 ```
 
 # :man: :blonde_woman: :house: :mask: :pray:
