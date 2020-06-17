@@ -1,7 +1,7 @@
 # [COVID-19](https://github.com/vinitshahdeo/COVID19/) | [Let's fight together with Corona](https://corona-cases-india.netlify.com/)!
 
 
-## Do checkout latest [COVID-19 Tracker | INDIA](https://indiafightscorona.netlify.com/)
+## Do [checkout](http://corona-cases-india.netlify.com/) latest [COVID-19 Tracker | INDIA](https://indiafightscorona.netlify.com/)
 
 ```bash
 ╔═╗╔╦╗╔═╗╦ ╦  ╦ ╦╔═╗╔╦╗╔═╗
@@ -37,8 +37,6 @@ family.
 ## Featured on Newspaper
 
 [![NEWSPAPER](./img/news.png)](https://github.com/vinitshahdeo/COVID19/)
-
-<a href="https://indiafightscorona.netlify.app/"><img src="./img/mask-corona.png" height="100px" width="100px" alt="COVID-19 Tracker by Vinit Shahdeo"></a>
 
 ## Stay Home, Stay Safe
 
