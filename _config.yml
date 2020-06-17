@@ -1,4 +1,5 @@
 title: COVID-19 Tracker | INDIA
 theme: jekyll-theme-minimal
+logo: corona.gif
 plugins:
   - jemoji
