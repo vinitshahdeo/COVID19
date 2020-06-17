@@ -16,7 +16,7 @@
 
 ## Stay Home Stay Safe
 
-## :mag_right: [Click here](https://corona-cases-india.netlify.com/) to visualize the state-wise :bar_chart: Corona Cases in India! Keep yourself updated with latest news related to COVID-19. 🦠 
+## :mag_right: [Click here](https://corona-cases-india.netlify.com/) to visualize the state-wise :bar_chart: Corona Cases in India! Keep yourself updated with [latest news](https://indiafightscorona.netlify.app/) related to [COVID-19](https://github.com/vinitshahdeo/COVID19/). 🦠 
 
 [![Mentioned in Awesome](https://awesome.re/mentioned-badge.svg)](https://github.com/NovelCOVID/awesome-novelcovid) [![Open Source Love](https://badges.frapsoft.com/os/v2/open-source.svg?v=103)](https://github.com/vinitshahdeo)  [![Netlify Status](https://api.netlify.com/api/v1/badges/fcfb9be7-e730-460c-8bcf-e35179e7bdcb/deploy-status)](https://app.netlify.com/sites/indiafightscorona/deploys)
 
@@ -32,7 +32,7 @@ family.
 
 [![GitHub license](https://img.shields.io/github/license/vinitshahdeo/COVID19?logo=github)](https://github.com/vinitshahdeo/COVID19/blob/master/LICENSE)
 
-#### :point_right: See [live demo](https://corona-cases-india.netlify.com/) :link: | Check [COVID-19 Tracker](https://indiafightscorona.netlify.app/) :bar_chart: | INDIA :india:
+### :point_right: See [live demo](https://corona-cases-india.netlify.com/) :link: | Check [COVID-19 Tracker](https://indiafightscorona.netlify.app/) :bar_chart: | INDIA :india:
 
 ## Featured on Newspaper
 
@@ -49,10 +49,6 @@ family.
 3. **FACE**: Don't touch it :boy:
 4. **SPACE**: Keep safe distance :walking:
 5. **HOME**: Stay if you can :house:
-
-
-#### Avoid Handshakes 🤝 ❌
-#### Do Namastey 🙏 ✔️
 
 ```javascript
 /**
@@ -77,7 +73,7 @@ while(_.isAlive(new Virus('COVID-19'))) {
 
 [![](https://sourcerer.io/fame/vinitshahdeo/vinitshahdeo/COVID19/images/0)](https://fayz.in/stories/s/1522/0/?ckt_id=ZGL1ZGVk&title=story_of_vinit_shahdeo)[![](https://sourcerer.io/fame/vinitshahdeo/vinitshahdeo/COVID19/images/1)](https://indiafightscorona.netlify.app/)[![](https://sourcerer.io/fame/vinitshahdeo/vinitshahdeo/COVID19/images/2)](https://github.com/vinitshahdeo/COVID19)[![](https://sourcerer.io/fame/vinitshahdeo/vinitshahdeo/COVID19/images/3)](https://www.linkedin.com/in/vinitshahdeo/)[![](https://sourcerer.io/fame/vinitshahdeo/vinitshahdeo/COVID19/images/4)](http://corona-cases-india.netlify.com/)[![](https://sourcerer.io/fame/vinitshahdeo/vinitshahdeo/COVID19/images/5)](http://corona-cases-india.netlify.com/)[![](https://sourcerer.io/fame/vinitshahdeo/vinitshahdeo/COVID19/images/6)](https://github.com/vinitshahdeo)[![](https://sourcerer.io/fame/vinitshahdeo/vinitshahdeo/COVID19/images/7)](https://fayz.in/stories/s/1522/0/?ckt_id=ZGL1ZGVk&title=story_of_vinit_shahdeo)
 
-#### [Vinit Shahdeo](https://fayz.in/stories/s/1522/0/?ckt_id=ZGL1ZGVk&title=story_of_vinit_shahdeo)
+### [Vinit Shahdeo](https://fayz.in/stories/s/1522/0/?ckt_id=ZGL1ZGVk&title=story_of_vinit_shahdeo)
 
 ### :point_right: Read my **open letter** [here](https://github.com/vinitshahdeo/Water-Monitoring-System/issues/236). :heart:<br>
 
