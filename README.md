@@ -40,7 +40,7 @@ family.
 
 <a href="https://indiafightscorona.netlify.app/"><img src="./img/mask-corona.png" height="100px" width="100px" alt="COVID-19 Tracker by Vinit Shahdeo"></a>
 
-### Stay Home, Stay Safe
+### [Stay Home, Stay Safe!](https://vinitshahdeo.github.io/COVID19/)
 
 :wave: [DO THE FIVE](https://www.mohfw.gov.in/): Help stop coronavirus
 
