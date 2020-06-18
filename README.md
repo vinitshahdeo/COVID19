@@ -14,7 +14,7 @@
 
 # :man: :blonde_woman: :house: :mask: :pray:
 
-## [Stay Home](https://github.com/vinitshahdeo/COVID19/), [Stay Safe](indiafightscorona.netlify.app)!
+## [Stay Home](https://github.com/vinitshahdeo/COVID19/), [Stay Safe](indiafightscorona.netlify.app)! <img src="./img/corona.gif" height="50px" width="50px" />
 
 ## [Click here](https://corona-cases-india.netlify.com/) to visualize the state-wise Corona Cases in India! Keep yourself updated with [latest news](https://indiafightscorona.netlify.app/) related to [COVID-19](https://github.com/vinitshahdeo/COVID19/). 🦠 :mask:
 
