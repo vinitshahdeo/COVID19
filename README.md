@@ -35,6 +35,8 @@ family.
 
 > #### :point_right: See [live demo](https://corona-cases-india.netlify.com/) :link: | Check [COVID-19 Tracker](https://indiafightscorona.netlify.app/) :bar_chart: | INDIA :india: | [Source Code](https://github.com/vinitshahdeo/covid19api)
 
+[![COVID-19 Tracker](./img/covid19screen.png)](http://corona-cases-india.netlify.com/)
+
 > ### Featured on Newspaper
 
 [![NEWSPAPER](./img/news.png)](https://github.com/vinitshahdeo/COVID19/)
