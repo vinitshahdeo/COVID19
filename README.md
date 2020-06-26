@@ -73,6 +73,10 @@ while(_.isAlive(new Virus('COVID-19'))) {
 
 ```
 
+## License
+
+[![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2Fvinitshahdeo%2FCOVID19.svg?type=large)](https://app.fossa.com/projects/git%2Bgithub.com%2Fvinitshahdeo%2FCOVID19?ref=badge_large)
+
 ## < /> with ♡ by 
 
 
