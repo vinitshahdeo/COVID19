@@ -1,5 +1,6 @@
 # COVID-19 <img src="./img/corona.gif" height="50px" width="50px" />  [Let's fight together with Corona](https://corona-cases-india.netlify.com/)!  🦠  :mask:
 
+[![COVID-19 Dashboard](./img/covid19-dashboard.png)](https://indiafightscorona.netlify.com/)
 
 > ## Do checkout latest [COVID-19 Tracker :bar_chart: | INDIA](https://indiafightscorona.netlify.com/) :india:
 
