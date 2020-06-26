@@ -15,6 +15,7 @@
 # :man: :blonde_woman: :house: :mask: :pray:
 
 ### Stay Home<sup>Stay Safe</sup> [![Netlify Status](https://api.netlify.com/api/v1/badges/fcfb9be7-e730-460c-8bcf-e35179e7bdcb/deploy-status)](https://app.netlify.com/sites/indiafightscorona/deploys)
+[![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2Fvinitshahdeo%2FCOVID19.svg?type=shield)](https://app.fossa.com/projects/git%2Bgithub.com%2Fvinitshahdeo%2FCOVID19?ref=badge_shield)
 
 #### :mag_right: [Click here](https://corona-cases-india.netlify.com/) to visualize the state-wise :bar_chart: Corona Cases in India! Keep yourself updated with latest news related to COVID-19.
 
@@ -104,3 +105,7 @@ if (_.isAwesome(thisRepo)) {
 <sup>**DISCLAIMER**: [This](http://corona-cases-india.netlify.com/) is an effort made to keep people updated with the latest news/reports related to `COVID-19`. Check the source for data [here](https://github.com/covid19india/api). It's a humble request to everyone to stay at home. Read the full disclaimer [here](./DISCLAIMER.md).</sup>
 
 [![GitHub search hit counter](https://img.shields.io/github/search/vinitshahdeo/COVID19/covid-19tracker?logo=github)](https://indiafightscorona.netlify.app/) [![GitHub search hit counter](https://img.shields.io/github/search/vinitshahdeo/COVID19/coronavirus?logo=github&color=orange)](https://github.com/vinitshahdeo) [![GitHub search hit counter](https://img.shields.io/github/search/vinitshahdeo/COVID19/covid-19?color=tomato&logo=github)](https://github.com/vinitshahdeo) [![GitHub search hit counter](https://img.shields.io/github/search/vinitshahdeo/COVID19/corona?color=teal&logo=github)](https://github.com/vinitshahdeo) [![Maintenance](https://img.shields.io/maintenance/yes/2020?color=dodgerblue&logo=github)](https://github.com/vinitshahdeo)
+
+
+## License
+[![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2Fvinitshahdeo%2FCOVID19.svg?type=large)](https://app.fossa.com/projects/git%2Bgithub.com%2Fvinitshahdeo%2FCOVID19?ref=badge_large)
