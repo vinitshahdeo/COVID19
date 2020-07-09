@@ -114,3 +114,4 @@ if (_.isAwesome(thisRepo)) {
 
 <p align="center"><strong><sup>:hugs: <br>Check out my other projects <a href="./PROJECTS.md">here</a>!</sup></strong></p>
 
+[![vinitshahdeo](./img/vinitshahdeo-graph.png)](https://github.com/vinitshahdeo)
